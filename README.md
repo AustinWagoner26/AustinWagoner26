@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I'm Austin, an IT Helpdesk associate from the United States.
 
 I'm a tech enthusiast that loves to learn more about technology and how they work.
